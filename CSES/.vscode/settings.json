@@ -1,0 +1,84 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "Book_Shop.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Coin_Combinations_II.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Longest_Common_Subsequence.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Rectangle_Cutting.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Removal_Game.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Two_Sets_II.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Increasing_Subsequence.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "building_roads_adv.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Monsters.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Shortest_Routes_I.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Shortest_Routes_II.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "High_Score.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Cycle_Finding.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Flight_Routes.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Round_Trip_II.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "D_Jumping_Through_Segments.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Sliding_Window_Or.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Sliding_Window_Mex.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Sliding_Window_Cost.cpp",
+            "group": "Default"
+        },
+        {
+            "filePath": "Largest_Rectangle_in_Histogram.cpp",
+            "group": "Default"
+        }
+    ]
+}

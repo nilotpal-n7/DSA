@@ -1,0 +1,23 @@
+# TWO_SETS_II
+0/1 knapsack
+Uses UPDATED dp → allows reuse
+Uses OLD dp → ensures single usage
+(x / 2) % MOD ❌ (NOT allowed directly)
+x * modinv(2) % MOD ✅
+
+# PROJECTS
+Understand lb/ub
+
+# Shortest_Routes_I
+Dijkstra
+// O((n + m) log n)
+// O(n + m) (for all bsf(n), dsf(n), djk(n), floyd(n^2))(we include graph)
+
+# Shortest_Routes_II
+Floyd-Warshall
+// O(n^3 + q) use for precompute when n < 500
+// q -> no of queries;
+
+# High_Score
+// Bellman-Ford
+
